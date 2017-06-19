@@ -10,4 +10,5 @@
         <item name="nav_bg_color">@color/colorPrimary</item>
     </style>
 
+    <style name="FruitActivityTheme" parent="AppTheme"/>
 </resources>
