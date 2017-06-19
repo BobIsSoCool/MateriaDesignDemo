@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--侧滑菜单选项-->
+    <!--single:单选-->
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/edit"
+            android:icon="@drawable/icon_edit"
+            android:title="edit"
+            />
+        <item
+            android:id="@+id/set"
+            android:icon="@drawable/icon_set"
+            android:title="set"
+            />
+    </group>
+</menu>
